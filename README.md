@@ -30,6 +30,8 @@ This process is:
 - Error handling — skips corrupt or open files gracefully 
 - Clean clipboard management
 — no lingering copy operations
+<img width="1788" height="911" alt="Vba -Consolidation" src="https://github.com/user-attachments/assets/dc812e5c-9765-445c-8882-be903dac1cf9" />
+
 
 
 
